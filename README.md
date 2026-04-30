@@ -1,6 +1,5 @@
 # Car Price Prediction using Machine Learning
 
-## Objective
 The objective of this project is to build a machine learning model to predict car prices based on features such as age, mileage, fuel type, and transmission.
 -------------------
 
